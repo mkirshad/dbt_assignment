@@ -1,0 +1,9 @@
+version: 2
+sources:
+  - name: source_tables
+    schema: mkiassignment2
+    tables:
+      - name: data_products
+      - name: data_regions
+      - name: data_sales
+      - name: data_customers
